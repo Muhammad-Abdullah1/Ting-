@@ -1,0 +1,65 @@
+*{
+    font-family: Helvetica;
+    
+  }
+  body{
+    background-color: #fff;
+  }
+  .navbar-bg{
+    background-color: #EC008C;
+    color: #fff;
+    padding: 0 0;
+    z-index: 99;
+    position: relative;
+  }
+  .navbar-nav{
+   color: #fff;
+  }
+  .navbar-brand{
+    font-size: 2rem;
+  }
+  .navbar li{
+    padding: 0 2rem;
+  }
+  .navbar li a{
+    font-size: 1.2rem;
+    font-weight: lighter;
+    position: relative;
+  }
+  .navbar li a:hover{
+    color: #fff !important; 
+    text-shadow: 0 0.2rem 0.3rem rgba(183, 171, 255, 0.5);
+  }
+                    /* button sign out  */
+  /* .btn-Style{
+    width: 12rem;
+    height: 4rem;
+    border-radius: 3rem;
+    color: #fff;
+    font-size: 1.3rem;
+    background-color: var(--primary-color);
+    text-transform: capitalize;
+  }
+  .btn-Style:first-child{
+    margin-right: 2 rem;
+  }
+  .btn-Style:hover{
+    border: 0.1rem solid var(--primary-color);
+    background-color: transparent;
+    color: var(--primary-color);
+    box-shadow: 0 0.2rem 0.5rem rgba(183, 171, 255, 0.5);
+  }
+       */
+                    /* button camera icon styling  */
+  .btn-Style{
+    width: 3.5rem;
+    height: 3rem;
+    border-radius: 0.5rem;
+    font-size: 2rem;
+  }
+  .bg-width{
+    width: 100% !important;
+  }
+ 
+  
+  

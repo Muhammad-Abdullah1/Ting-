@@ -1,0 +1,18 @@
+/* body{
+    overflow: hidden;
+} */
+
+
+.icon-align{
+  
+    color: #EC008C;
+}
+.feed{
+    padding-top: 2%;
+    padding-bottom: 1%;
+   display: block;
+   margin-left:50% ;
+   margin-right: 50%;
+    color: black;
+    font-size: 40px;
+}
